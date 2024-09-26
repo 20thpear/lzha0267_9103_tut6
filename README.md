@@ -7,10 +7,10 @@ The example creates an elegant visual effect using particles moving like **circu
 This technique aligns with the assignment requirements, as the particle system rebuilds the image by **dynamically weaving it** together in an interesting and graceful way, forming a complete picture through motion.  
 
 ![Circular random walker 1](images/circular_random_walker_1.png)
-##### *Figure 1: Particles moving in circular motion in response to image brightness*
+*Figure 1: Particles moving in circular motion in response to image brightness*
 
 ![Circular random walker 2](images/circular_random_walker_2.png)
-##### *Figure 2: Particles recreating the image*
+*Figure 2: Particles recreating the image*
 
 ---
 
@@ -27,4 +27,4 @@ The particle system helps in creating **complex, evolving patterns** while offer
 Here is the example implementation of [Particle System](https://editor.p5js.org/codingtrain/sketches/D4ty3DgZB).  
 
 ![Particle System example](images/particle_system.png)
-##### *Figure 3: Particle system example showing dynamic patterns*
+*Figure 3: Particle system example showing dynamic patterns*

@@ -16,15 +16,15 @@ This technique aligns with the assignment requirements, as the particle system r
 
 ### Part 2: Coding Technique Exploration
 
-To achieve the **circular random walkers** technique, I explored the **particle system**.  
+To achieve the **circular random walkers** effect, I explored the **particle system**.  
 
 > *“A particle system is a collection of many, many minute particles that together represent a fuzzy object.” -- William T. Reeves*  
 
-Each particle is an independent body with properties like **position, velocity, and acceleration**. These particles move dynamically across the canvas, responding to **forces** such as gravity, wind, or, in this case, image brightness. The technique involves updating the position of each particle in every frame based on its velocity, while also adjusting speed and direction accordingly.  
+Each particle is an independent body with properties like **position, velocity, and acceleration**. These particles move dynamically across the canvas, responding to **forces** such as gravity, wind, or, in this case, image brightness.  
 
-The particle system helps in creating **complex, evolving patterns** while offering flexibility in adjusting particle movement, behaviour, and interaction with the environment.  
+By continuously updating each particle’s position and direction, the system creates an evolving pattern that adapts to the image. This technique allows for flexibility in controlling the behaviour of the particles, ensuring smooth movement with the underlying image.  
 
-Here is the example implementation of [Particle System](https://editor.p5js.org/codingtrain/sketches/D4ty3DgZB).  
+Here is the example implementation of [Particle System](https://editor.p5js.org/soh25@sva.edu/sketches/B1KK2I1k4).  
 
 ![Particle System example](images/particle_system.png)
 *Figure 3: Particle system example showing dynamic patterns*
